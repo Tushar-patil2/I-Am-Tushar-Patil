@@ -14,8 +14,9 @@
 - 📫 How to reach me **tusharpatil5683@gmail.com**
 
 - ⚡ Fun fact **that is funny**
-- https://github.com/Tushar-patil2 - portfolio click on it
-
+- https://github.com/Tushar-patil2 -Portfolio click on it
+- https://github.com/Tushar-patil2/Flight-Deployment-Price-Prediction-project
+- https://github.com/Tushar-patil2/Zomato-Rating-Prediction-Flask-Project
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-patil-a9720617a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-patil-a9720617a/" height="30" width="40" /></a>
